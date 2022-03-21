@@ -1,4 +1,4 @@
-## Hi there I'm Elodie 👋
+## Hi there I'm Elodie, Welcome to my GitHub Page 👋
 
 
 
@@ -25,7 +25,7 @@
 
 ### Langages and Tools : 
 <br>
-<div class="container icons">
+<div class="containers-icons">
     <img alt="react" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style ="margin-right:30px" />   <img alt="redux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style ="margin-right:30px" />   <img  alt="js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style ="margin-right:30px" />   <img  alt="html" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  style ="margin-right:30px" />   <img alt="sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style ="margin-right:30px" />   <img alt="node" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style ="margin-right:30px" />   <img alt="mysql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style ="margin-right:30px" />   <img alt="postgres" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  style ="margin-right:30px" />   <img  alt="git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  style ="margin-right:30px" />   <img  alt="slack" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"  style ="margin-right:30px" />   <img  alt="vscode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style ="margin-right:30px" />   <img alt="yarn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"  style ="margin-right:30px" />
 </div>
 
