@@ -1,5 +1,4 @@
-
-
-img[alt$="test"] {
-    width: 200px;
-  }
+.containers-icons{
+    display:flex;
+    justify-content:space-between;
+}
