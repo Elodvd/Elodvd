@@ -2,14 +2,8 @@
 
 
 
-
 ### I'm a web developer specialized in React
 
-
-- 👯 I’m looking for a job as front-end developer - in which I can use React
-- 🔭 I’m currently working on web development personnal projects 
-- 🌱 I’m currently switch from Windows to Linux to gain in efficiency
-- 🌱 I am currently learning more about hosting 
 
 - ⚡ I chose to reconvert in web development because I want a job that I love to do everyday !
 
